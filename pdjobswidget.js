@@ -19,7 +19,7 @@ class PDJobWidget extends HTMLElement {
             width: 160px;
             margin-bottom: 1.5rem;
           }
-          #pdj-logo avg {
+          #pdj-logo svg {
             max-width: 100%;
             height: auto;
           }
