@@ -7,5 +7,6 @@ This script creates a web component with a shadow dom form and custom styles tha
 
 Add the following script and HTML to any area you wish to show the Findit! Job search widget.
 
-<script src="https://cdn.jsdelivr.net/gh/bholcombe/pdjwidget/pdjobswidget.min.js" defer></script>
+<code><script src="https://cdn.jsdelivr.net/gh/bholcombe/pdjwidget/pdjobswidget.min.js" defer></script>
 <div id="pdjwcontainer"></div>
+</code>
