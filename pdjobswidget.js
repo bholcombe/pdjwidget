@@ -14,6 +14,7 @@ class PDJobWidget extends HTMLElement {
             font-family: Arial, Helvetica, sans-serif;
             background: #f7f5f4;
             border-radius: 10px;
+            border: 1px solid #e98023;
           }
           #pdj-logo {
             width: 160px;
